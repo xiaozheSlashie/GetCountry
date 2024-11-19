@@ -1,0 +1,97 @@
+[
+    {
+        "cn": "臺北",
+        "en": "Taipei",
+        "code": "02"
+    },
+    {
+        "cn": "桃園",
+        "en": "Taoyuan",
+        "code": "03"
+    },
+    {
+        "cn": "新竹",
+        "en": "Hsinchu",
+        "code": "03"
+    },
+    {
+        "cn": "花蓮",
+        "en": "Hualien",
+        "code": "03"
+    },
+    {
+        "cn": "宜蘭",
+        "en": "Yilan",
+        "code": "03"
+    },
+    {
+        "cn": "苗栗",
+        "en": "Miaoli",
+        "code": "037"
+    },
+    {
+        "cn": "臺中",
+        "en": "Taichung",
+        "code": "04"
+    },
+    {
+        "cn": "彰化",
+        "en": "Changhua",
+        "code": "04"
+    },
+    {
+        "cn": "南投",
+        "en": "Nantou",
+        "code": "049"
+    },
+    {
+        "cn": "嘉義",
+        "en": "Chiayi",
+        "code": "05"
+    },
+    {
+        "cn": "雲林",
+        "en": "Yunlin",
+        "code": "05"
+    },
+    {
+        "cn": "臺南",
+        "en": "Tainan",
+        "code": "06"
+    },
+    {
+        "cn": "澎湖",
+        "en": "Penghu",
+        "code": "06"
+    },
+    {
+        "cn": "高雄",
+        "en": "Kaohsiung",
+        "code": "07"
+    },
+    {
+        "cn": "屏東",
+        "en": "Pingtung",
+        "code": "08"
+    },
+    {
+        "cn": "臺東",
+        "en": "Taitung",
+        "code": "089"
+    },
+    {
+        "cn": "金門",
+        "en": "Kinmen",
+        "code": "082"
+    },
+    {
+        "cn": "烏坵",
+        "en": "Wuqiu",
+        "code": "0826"
+    },
+    {
+        "cn": "馬祖",
+        "en": "Matsu",
+        "code": "0836"
+    }
+]

@@ -1,0 +1,1748 @@
+[
+    {
+        "cn": "北京",
+        "en": "Beijing",
+        "code": "10"
+    },
+    {
+        "cn": "廣州",
+        "en": "Guangzhou",
+        "code": "20"
+    },
+    {
+        "cn": "上海",
+        "en": "Shanghai",
+        "code": "21"
+    },
+    {
+        "cn": "天津",
+        "en": "Tianjin",
+        "code": "22"
+    },
+    {
+        "cn": "重慶",
+        "en": "Chongqing",
+        "code": "23"
+    },
+    {
+        "cn": "瀋陽",
+        "en": "Shenyang",
+        "code": "24"
+    },
+    {
+        "cn": "撫順",
+        "en": "Fushun",
+        "code": "24"
+    },
+    {
+        "cn": "鐵嶺",
+        "en": "Tieling",
+        "code": "24"
+    },
+    {
+        "cn": "本溪",
+        "en": "Benxi",
+        "code": "24"
+    },
+    {
+        "cn": "南京",
+        "en": "Nanjing",
+        "code": "25"
+    },
+    {
+        "cn": "武漢",
+        "en": "Wuhan",
+        "code": "27"
+    },
+    {
+        "cn": "成都",
+        "en": "Chengdu",
+        "code": "28"
+    },
+    {
+        "cn": "眉山",
+        "en": "Meishan",
+        "code": "28"
+    },
+    {
+        "cn": "資陽",
+        "en": "Ziyang",
+        "code": "28"
+    },
+    {
+        "cn": "西安",
+        "en": "Xian",
+        "code": "29"
+    },
+    {
+        "cn": "咸陽",
+        "en": "Xianyang",
+        "code": "29"
+    },
+    
+    {
+        "cn": "邯鄲",
+        "en": "Handan",
+        "code": "310"
+    },
+    {
+        "cn": "石家莊",
+        "en": "Shijiazhuang",
+        "code": "311"
+    },
+    {
+        "cn": "保定",
+        "en": "Baoding",
+        "code": "312"
+    },
+    {
+        "cn": "張家口",
+        "en": "Zhangjiakou",
+        "code": "313"
+    },
+    {
+        "cn": "承德",
+        "en": "Chengde",
+        "code": "314"
+    },
+    {
+        "cn": "唐山",
+        "en": "Tangshan",
+        "code": "315"
+    },
+    {
+        "cn": "廊坊",
+        "en": "Langfang",
+        "code": "316"
+    },
+    {
+        "cn": "滄州",
+        "en": "Cangzhou",
+        "code": "317"
+    },
+    {
+        "cn": "衡水",
+        "en": "Hengshui",
+        "code": "318"
+    },
+    {
+        "cn": "邢台",
+        "en": "Xingtai",
+        "code": "319"
+    },
+    {
+        "cn": "秦皇島",
+        "en": "Qinhuangdao",
+        "code": "335"
+    },
+    {
+        "cn": "朔州",
+        "en": "Shuozhou",
+        "code": "349"
+    },
+    {
+        "cn": "忻州",
+        "en": "Xinzhou",
+        "code": "350"
+    },
+    {
+        "cn": "太原",
+        "en": "Taiyuan",
+        "code": "351"
+    },
+    {
+        "cn": "大同",
+        "en": "Datong",
+        "code": "352"
+    },
+    {
+        "cn": "陽泉",
+        "en": "Yangquan",
+        "code": "353"
+    },
+    {
+        "cn": "晉中",
+        "en": "Jinzhong",
+        "code": "354"
+    },
+    {
+        "cn": "長治",
+        "en": "Changzhi",
+        "code": "355"
+    },
+    {
+        "cn": "晉城",
+        "en": "Jincheng",
+        "code": "356"
+    },
+    {
+        "cn": "臨汾",
+        "en": "Linfen",
+        "code": "357"
+    },
+    {
+        "cn": "呂梁",
+        "en": "Luliang",
+        "code": "358"
+    },
+    {
+        "cn": "運城",
+        "en": "Yuncheng",
+        "code": "359"
+    },
+  
+    {
+        "cn": "商丘",
+        "en": "Shangqiu",
+        "code": "370"
+    },
+    {
+        "cn": "鄭州",
+        "en": "Zhengzhou",
+        "code": "371"
+    },
+    {
+        "cn": "開封",
+        "en": "Kaifeng",
+        "code": "371"
+    },
+    {
+        "cn": "安陽",
+        "en": "Anyang",
+        "code": "372"
+    },
+    {
+        "cn": "新鄉",
+        "en": "Xinxiang",
+        "code": "373"
+    },
+    {
+        "cn": "許昌",
+        "en": "Xuchang",
+        "code": "374"
+    },
+    {
+        "cn": "平頂山",
+        "en": "Pingdingshan",
+        "code": "375"
+    },
+    {
+        "cn": "信陽",
+        "en": "Xinyang",
+        "code": "376"
+    },
+    {
+        "cn": "南陽",
+        "en": "Nanyang",
+        "code": "377"
+    },
+    {
+        "cn": "洛陽",
+        "en": "Luoyang",
+        "code": "379"
+    },
+    {
+        "cn": "焦作",
+        "en": "Jiaozuo",
+        "code": "391"
+    },
+    {
+        "cn": "濟源",
+        "en": "Jiyuan",
+        "code": "391"
+    },
+    {
+        "cn": "鶴壁",
+        "en": "Hebi",
+        "code": "392"
+    },
+    {
+        "cn": "濮陽",
+        "en": "Puyang",
+        "code": "393"
+    },
+    {
+        "cn": "周口",
+        "en": "Zhoukou",
+        "code": "394"
+    },
+    {
+        "cn": "漯河",
+        "en": "Luohe",
+        "code": "395"
+    },
+    {
+        "cn": "駐馬店",
+        "en": "Zhumadian",
+        "code": "396"
+    },
+    {
+        "cn": "三門峽",
+        "en": "Sanmenxia",
+        "code": "398"
+    },
+  
+    {
+        "cn": "大連",
+        "en": "Dalian",
+        "code": "411"
+    },
+    {
+        "cn": "鞍山",
+        "en": "Anshan",
+        "code": "412"
+    },
+    {
+        "cn": "丹東",
+        "en": "Dandong",
+        "code": "415"
+    },
+    {
+        "cn": "錦州",
+        "en": "Jinzhou",
+        "code": "416"
+    },
+    {
+        "cn": "營口",
+        "en": "Yingkou",
+        "code": "417"
+    },
+    {
+        "cn": "阜新",
+        "en": "Fuxin",
+        "code": "418"
+    },
+    {
+        "cn": "遼陽",
+        "en": "Liaoyang",
+        "code": "419"
+    },
+    {
+        "cn": "朝陽",
+        "en": "Chaoyang",
+        "code": "421"
+    },
+    {
+        "cn": "盤錦",
+        "en": "Panjin",
+        "code": "427"
+    },
+    {
+        "cn": "葫蘆島",
+        "en": "Huludao",
+        "code": "429"
+    },
+   
+    {
+        "cn": "長春",
+        "en": "Changchun",
+        "code": "431"
+    },
+    {
+        "cn": "吉林",
+        "en": "Jilin",
+        "code": "432"
+    },
+    {
+        "cn": "延邊朝鮮族自治州",
+        "en": "Yanbian",
+        "code": "433"
+    },
+    {
+        "cn": "四平",
+        "en": "Siping",
+        "code": "434"
+    },
+    {
+        "cn": "通化",
+        "en": "Tonghua",
+        "code": "435"
+    },
+    {
+        "cn": "白城",
+        "en": "Baicheng",
+        "code": "436"
+    },
+    {
+        "cn": "遼源",
+        "en": "Liaoyuan",
+        "code": "437"
+    },
+    {
+        "cn": "松原",
+        "en": "Songyuan",
+        "code": "438"
+    },
+    {
+        "cn": "白山",
+        "en": "Baisan",
+        "code": "439"
+    },
+ 
+    {
+        "cn": "哈爾濱",
+        "en": "Harbin",
+        "code": "451"
+    },
+    {
+        "cn": "齊齊哈爾",
+        "en": "Qiqihaer",
+        "code": "452"
+    },
+    {
+        "cn": "牡丹江",
+        "en": "Mudanjiang",
+        "code": "453"
+    },
+    {
+        "cn": "佳木斯",
+        "en": "Jiamusi",
+        "code": "454"
+    },
+    {
+        "cn": "綏化",
+        "en": "Suihua",
+        "code": "455"
+    },
+    {
+        "cn": "黑河",
+        "en": "Heihe",
+        "code": "456"
+    },
+    {
+        "cn": "大興安嶺地區",
+        "en": "Daxing’anling",
+        "code": "457"
+    },
+    {
+        "cn": "伊春",
+        "en": "Yichun",
+        "code": "458"
+    },
+    {
+        "cn": "大慶",
+        "en": "Daqing",
+        "code": "459"
+    },
+    {
+        "cn": "七台河",
+        "en": "Qitaihe",
+        "code": "464"
+    },
+    {
+        "cn": "雞西",
+        "en": "Jixi",
+        "code": "467"
+    },
+    {
+        "cn": "鶴崗",
+        "en": "Hegang",
+        "code": "468"
+    },
+    {
+        "cn": "雙鴨山",
+        "en": "Shuangyashan",
+        "code": "469"
+    },
+   
+    {
+        "cn": "呼倫貝爾",
+        "en": "Hohhot",
+        "code": "470"
+    },
+    {
+        "cn": "呼和浩特",
+        "en": "Huhehaote",
+        "code": "471"
+    },
+    {
+        "cn": "包頭",
+        "en": "Baotou",
+        "code": "472"
+    },
+    {
+        "cn": "烏海",
+        "en": "Wuhai",
+        "code": "473"
+    },
+    {
+        "cn": "烏蘭察市",
+        "en": "Ulanqub",
+        "code": "474"
+    },
+    {
+        "cn": "通遼",
+        "en": "Tongliao",
+        "code": "475"
+    },
+    {
+        "cn": "赤峰",
+        "en": "Chifeng",
+        "code": "476"
+    },
+    {
+        "cn": "鄂爾多斯",
+        "en": "Ordos",
+        "code": "477"
+    },
+    {
+        "cn": "巴彥淖爾",
+        "en": "Bayannur",
+        "code": "478"
+    },
+    {
+        "cn": "錫林郭勒盟",
+        "en": "Xilingol League",
+        "code": "479"
+    },
+    {
+        "cn": "興安盟",
+        "en": "Xinggan League",
+        "code": "482"
+    },
+    {
+        "cn": "阿拉善盟",
+        "en": "Alxa League",
+        "code": "483"
+    },
+ 
+    {
+        "cn": "無錫",
+        "en": "Wuxi",
+        "code": "510"
+    },
+    {
+        "cn": "鎮江",
+        "en": "Zhenjiang",
+        "code": "511"
+    },
+    {
+        "cn": "蘇州",
+        "en": "Suzhou",
+        "code": "512"
+    },
+    {
+        "cn": "南通",
+        "en": "Nantong",
+        "code": "513"
+    },
+    {
+        "cn": "揚州",
+        "en": "Yangzhou",
+        "code": "514"
+    },
+    {
+        "cn": "鹽城",
+        "en": "Yancheng",
+        "code": "515"
+    },
+    {
+        "cn": "徐州",
+        "en": "Xuzhou",
+        "code": "516"
+    },
+    {
+        "cn": "淮安",
+        "en": "Huaian",
+        "code": "517"
+    },
+    {
+        "cn": "連雲港",
+        "en": "Lianyungang",
+        "code": "518"
+    },
+    {
+        "cn": "常州",
+        "en": "Changzhou",
+        "code": "519"
+    },
+    {
+        "cn": "泰州",
+        "en": "Taizhou",
+        "code": "523"
+    },
+    {
+        "cn": "宿遷",
+        "en": "Suqian",
+        "code": "527"
+    },
+  
+    {
+        "cn": "菏澤",
+        "en": "Heze",
+        "code": "530"
+    },
+    {
+        "cn": "濟南",
+        "en": "Jinan",
+        "code": "531"
+    },
+    {
+        "cn": "青島",
+        "en": "Qingdao",
+        "code": "532"
+    },
+    {
+        "cn": "淄博",
+        "en": "Zibo",
+        "code": "533"
+    },
+    {
+        "cn": "德州",
+        "en": "Dezhou",
+        "code": "534"
+    },
+    {
+        "cn": "煙台",
+        "en": "Yantai",
+        "code": "535"
+    },
+    {
+        "cn": "濰坊",
+        "en": "Weifang",
+        "code": "536"
+    },
+    {
+        "cn": "濟寧",
+        "en": "Jining",
+        "code": "537"
+    },
+    {
+        "cn": "泰安",
+        "en": "Taian",
+        "code": "538"
+    },
+    {
+        "cn": "臨沂",
+        "en": "Linyi",
+        "code": "539"
+    },
+    {
+        "cn": "濱州",
+        "en": "Binzhou",
+        "code": "543"
+    },
+    {
+        "cn": "東營",
+        "en": "Dongying",
+        "code": "546"
+    },
+    {
+        "cn": "威海",
+        "en": "Weihai",
+        "code": "631"
+    },
+    {
+        "cn": "棗莊",
+        "en": "Zaozhuang",
+        "code": "632"
+    },
+    {
+        "cn": "日照",
+        "en": "Rizhaoshi",
+        "code": "633"
+    },
+    {
+        "cn": "萊蕪",
+        "en": "Laiwu",
+        "code": "634"
+    },
+    {
+        "cn": "聊城",
+        "en": "Liaocheng",
+        "code": "635"
+    },
+  
+    {
+        "cn": "滁州",
+        "en": "Chuzhou",
+        "code": "550"
+    },
+    {
+        "cn": "合肥",
+        "en": "Hefei",
+        "code": "551"
+    },
+    {
+        "cn": "蚌埠",
+        "en": "Bengbu",
+        "code": "552"
+    },
+    {
+        "cn": "蕪湖",
+        "en": "Wuhu",
+        "code": "553"
+    },
+    {
+        "cn": "淮南",
+        "en": "Huainan",
+        "code": "554"
+    },
+    {
+        "cn": "馬鞍山",
+        "en": "Maanshan",
+        "code": "555"
+    },
+    {
+        "cn": "安慶",
+        "en": "Anqing",
+        "code": "556"
+    },
+    {
+        "cn": "宿州",
+        "en": "Suzhou *Anhui",
+        "code": "557"
+    },
+    {
+        "cn": "阜陽",
+        "en": "Fuyang",
+        "code": "558"
+    },
+    {
+        "cn": "亳州",
+        "en": "Bozhou",
+        "code": "558"
+    },
+    {
+        "cn": "黃山",
+        "en": "Huangshan",
+        "code": "559"
+    },
+    {
+        "cn": "淮北",
+        "en": "Huaibei",
+        "code": "561"
+    },
+    {
+        "cn": "銅陵",
+        "en": "Tongling",
+        "code": "562"
+    },
+    {
+        "cn": "宣城",
+        "en": "Xuancheng",
+        "code": "563"
+    },
+    {
+        "cn": "六安",
+        "en": "Liuan",
+        "code": "564"
+    },
+    {
+        "cn": "池州",
+        "en": "Chizhou",
+        "code": "566"
+    },
+   
+    {
+        "cn": "衢州",
+        "en": "Quzhou",
+        "code": "0570"
+    },
+    {
+        "cn": "杭州",
+        "en": "Hangzhou",
+        "code": "0571"
+    },
+    {
+        "cn": "湖州",
+        "en": "Huzhou",
+        "code": "572"
+    },
+    {
+        "cn": "嘉興",
+        "en": "Jiaxing",
+        "code": "573"
+    },
+    {
+        "cn": "寧波",
+        "en": "Ningbo",
+        "code": "574"
+    },
+    {
+        "cn": "紹興",
+        "en": "Shaoxing",
+        "code": "575"
+    },
+    {
+        "cn": "台州",
+        "en": "Taizhou",
+        "code": "576"
+    },
+    {
+        "cn": "溫州",
+        "en": "Wenzhou",
+        "code": "577"
+    },
+    {
+        "cn": "麗水",
+        "en": "Lishui",
+        "code": "578"
+    },
+    {
+        "cn": "金華",
+        "en": "Jinhua",
+        "code": "579"
+    },
+    {
+        "cn": "舟山",
+        "en": "Zhoushan",
+        "code": "580"
+    },
+    
+    {
+        "cn": "福州",
+        "en": "Fuzhou",
+        "code": "591"
+    },
+    {
+        "cn": "廈門",
+        "en": "Xiamen",
+        "code": "592"
+    },
+    {
+        "cn": "寧德",
+        "en": "Ningde",
+        "code": "593"
+    },
+    {
+        "cn": "莆田",
+        "en": "Putian",
+        "code": "594"
+    },
+    {
+        "cn": "泉州",
+        "en": "Quanzhou",
+        "code": "595"
+    },
+    {
+        "cn": "漳州",
+        "en": "Zhangzhou",
+        "code": "596"
+    },
+    {
+        "cn": "龍巖",
+        "en": "Longyan",
+        "code": "597"
+    },
+    {
+        "cn": "三明",
+        "en": "Sanming",
+        "code": "598"
+    },
+    {
+        "cn": "南平",
+        "en": "Nanping",
+        "code": "599"
+    },
+  
+    {
+        "cn": "襄陽",
+        "en": "Xiangyang",
+        "code": "710"
+    },
+    {
+        "cn": "鄂州",
+        "en": "Ezhou",
+        "code": "711"
+    },
+    {
+        "cn": "孝感",
+        "en": "Xiaogan",
+        "code": "712"
+    },
+    {
+        "cn": "黃岡",
+        "en": "Huanggang",
+        "code": "713"
+    },
+    {
+        "cn": "黃石",
+        "en": "Huangshi",
+        "code": "714"
+    },
+    {
+        "cn": "咸寧",
+        "en": "Xianning",
+        "code": "715"
+    },
+    {
+        "cn": "荊州",
+        "en": "Jingzhou",
+        "code": "716"
+    },
+    {
+        "cn": "宜昌",
+        "en": "Yichang",
+        "code": "717"
+    },
+    {
+        "cn": "恩施土家族苗族自治州",
+        "en": "Enshi",
+        "code": "718"
+    },
+    {
+        "cn": "十堰",
+        "en": "Shiyan",
+        "code": "719"
+    },
+    {
+        "cn": "神農架林區",
+        "en": "Shennongjia",
+        "code": "719"
+    },
+    {
+        "cn": "隨州",
+        "en": "Suizhou",
+        "code": "722"
+    },
+    {
+        "cn": "荊門",
+        "en": "Jingmen",
+        "code": "724"
+    },
+    {
+        "cn": "仙桃",
+        "en": "Xiantao",
+        "code": "728"
+    },
+    {
+        "cn": "天門",
+        "en": "Tianmen",
+        "code": "728"
+    },
+    {
+        "cn": "潛江",
+        "en": "Qianjiang *Hubei",
+        "code": "728"
+    },
+    
+    {
+        "cn": "岳陽",
+        "en": "Yueyang",
+        "code": "730"
+    },
+    {
+        "cn": "長沙",
+        "en": "Changsha",
+        "code": "731"
+    },
+    {
+        "cn": "湘潭",
+        "en": "Xiangtan",
+        "code": "731"
+    },
+    {
+        "cn": "株洲",
+        "en": "Zhuzhou",
+        "code": "731"
+    },
+    {
+        "cn": "衡陽",
+        "en": "Hengyang",
+        "code": "734"
+    },
+    {
+        "cn": "郴州",
+        "en": "Chenzhou",
+        "code": "735"
+    },
+    {
+        "cn": "常德",
+        "en": "Changde",
+        "code": "736"
+    },
+    {
+        "cn": "益陽",
+        "en": "Yiyang",
+        "code": "737"
+    },
+    {
+        "cn": "婁底",
+        "en": "Loudi",
+        "code": "738"
+    },
+    {
+        "cn": "邵陽",
+        "en": "Shaoyang",
+        "code": "739"
+    },
+    {
+        "cn": "湘西土家族苗族自治州",
+        "en": "Xiangxi",
+        "code": "743"
+    },
+    {
+        "cn": "張家界",
+        "en": "Zhangjiajie",
+        "code": "744"
+    },
+    {
+        "cn": "懷化",
+        "en": "Huaihua",
+        "code": "745"
+    },
+    {
+        "cn": "永州",
+        "en": "Yongzhou",
+        "code": "746"
+    },
+   
+    {
+        "cn": "汕尾",
+        "en": "Shanwei",
+        "code": "660"
+    },
+    {
+        "cn": "陽江",
+        "en": "Yangjiang",
+        "code": "662"
+    },
+    {
+        "cn": "揭陽",
+        "en": "Jieyang",
+        "code": "663"
+    },
+    {
+        "cn": "茂名",
+        "en": "Maoming",
+        "code": "668"
+    },
+    {
+        "cn": "江門",
+        "en": "Jiangmen",
+        "code": "750"
+    },
+    {
+        "cn": "韶關",
+        "en": "Shaoguan",
+        "code": "751"
+    },
+    {
+        "cn": "惠州",
+        "en": "Huizhou",
+        "code": "752"
+    },
+    {
+        "cn": "梅州",
+        "en": "Meizhou",
+        "code": "753"
+    },
+    {
+        "cn": "汕頭",
+        "en": "Shantou",
+        "code": "754"
+    },
+    {
+        "cn": "深圳",
+        "en": "Shenzhen",
+        "code": "755"
+    },
+    {
+        "cn": "珠海",
+        "en": "Zhuhai",
+        "code": "756"
+    },
+    {
+        "cn": "佛山",
+        "en": "Fushan",
+        "code": "757"
+    },
+    {
+        "cn": "肇慶",
+        "en": "Zhaoqing",
+        "code": "758"
+    },
+    {
+        "cn": "湛江",
+        "en": "Zhanjiang",
+        "code": "759"
+    },
+    {
+        "cn": "中山",
+        "en": "Zhongshan",
+        "code": "760"
+    },
+    {
+        "cn": "河源",
+        "en": "Heyuan",
+        "code": "762"
+    },
+    {
+        "cn": "清遠",
+        "en": "Qingyuan",
+        "code": "763"
+    },
+    {
+        "cn": "雲浮",
+        "en": "Yunfu",
+        "code": "766"
+    },
+    {
+        "cn": "潮州",
+        "en": "Chaozhou",
+        "code": "768"
+    },
+    {
+        "cn": "東莞",
+        "en": "Dongguan",
+        "code": "769"
+    },
+  
+    {
+        "cn": "防城港",
+        "en": "Fangcheng",
+        "code": "770"
+    },
+    {
+        "cn": "南寧",
+        "en": "Nanning",
+        "code": "771"
+    },
+    {
+        "cn": "崇左",
+        "en": "Chongzuo",
+        "code": "771"
+    },
+    {
+        "cn": "柳州",
+        "en": "Liuzhou",
+        "code": "772"
+    },
+    {
+        "cn": "來賓",
+        "en": "Laibin",
+        "code": "772"
+    },
+    {
+        "cn": "桂林",
+        "en": "Guilin",
+        "code": "773"
+    },
+    {
+        "cn": "梧州",
+        "en": "Wuzhou",
+        "code": "774"
+    },
+    {
+        "cn": "賀州",
+        "en": "Hezhou",
+        "code": "774"
+    },
+    {
+        "cn": "玉林",
+        "en": "Yulin",
+        "code": "775"
+    },
+    {
+        "cn": "貴港",
+        "en": "Guigang",
+        "code": "775"
+    },
+    {
+        "cn": "百色",
+        "en": "Baise",
+        "code": "776"
+    },
+    {
+        "cn": "欽州",
+        "en": "Qinzhou",
+        "code": "777"
+    },
+    {
+        "cn": "河池",
+        "en": "Hechi",
+        "code": "778"
+    },
+    {
+        "cn": "北海",
+        "en": "Beihai",
+        "code": "779"
+    },
+  
+    {
+        "cn": "鷹潭",
+        "en": "Yingtan",
+        "code": "701"
+    },
+    {
+        "cn": "新余",
+        "en": "Xinyu",
+        "code": "0790"
+    },
+    {
+        "cn": "南昌",
+        "en": "Nanchang",
+        "code": "791"
+    },
+    {
+        "cn": "九江",
+        "en": "Jiujiang",
+        "code": "792"
+    },
+    {
+        "cn": "上饒",
+        "en": "Shangrao",
+        "code": "793"
+    },
+    {
+        "cn": "撫州",
+        "en": "Fuzhou",
+        "code": "794"
+    },
+    {
+        "cn": "宜春",
+        "en": "Yichun",
+        "code": "795"
+    },
+    {
+        "cn": "吉安",
+        "en": "Jian",
+        "code": "796"
+    },
+    {
+        "cn": "贛州",
+        "en": "Ganzhou",
+        "code": "797"
+    },
+    {
+        "cn": "景德鎮",
+        "en": "Jingdezhen",
+        "code": "798"
+    },
+    {
+        "cn": "萍鄉",
+        "en": "Pingxiang",
+        "code": "799"
+    },
+   
+    {
+        "cn": "攀枝花",
+        "en": "Panzhihua",
+        "code": "812"
+    },
+    {
+        "cn": "自貢",
+        "en": "Zigong",
+        "code": "813"
+    },
+    {
+        "cn": "綿陽",
+        "en": "Mianyang",
+        "code": "816"
+    },
+    {
+        "cn": "南充",
+        "en": "Nanchong",
+        "code": "817"
+    },
+    {
+        "cn": "達州",
+        "en": "Dazhou",
+        "code": "818"
+    },
+    {
+        "cn": "遂寧",
+        "en": "Suining",
+        "code": "825"
+    },
+    {
+        "cn": "廣安",
+        "en": "Guangan",
+        "code": "826"
+    },
+    {
+        "cn": "巴中",
+        "en": "Bazhong",
+        "code": "827"
+    },
+    {
+        "cn": "瀘州",
+        "en": "Luzhou",
+        "code": "830"
+    },
+    {
+        "cn": "宜賓",
+        "en": "Yibin",
+        "code": "831"
+    },
+    {
+        "cn": "內江",
+        "en": "Neijiang",
+        "code": "832"
+    },
+    {
+        "cn": "樂山",
+        "en": "Leshan",
+        "code": "833"
+    },
+    {
+        "cn": "涼山彝族自治州",
+        "en": "Liangshan",
+        "code": "834"
+    },
+    {
+        "cn": "雅安",
+        "en": "Yaan",
+        "code": "835"
+    },
+    {
+        "cn": "甘孜藏族自治州",
+        "en": "Garze",
+        "code": "836"
+    },
+    {
+        "cn": "阿壩藏族羌族自治州",
+        "en": "Aba (Ngawa)",
+        "code": "837"
+    },
+    {
+        "cn": "德陽",
+        "en": "Deyang",
+        "code": "838"
+    },
+    {
+        "cn": "廣元",
+        "en": "Guangyuan",
+        "code": "839"
+    },
+
+    {
+        "cn": "貴陽",
+        "en": "Guiyang",
+        "code": "851"
+    },
+    {
+        "cn": "遵義",
+        "en": "Zunyi",
+        "code": "851"
+    },
+    {
+        "cn": "安順",
+        "en": "Anshun",
+        "code": "851"
+    },
+    {
+        "cn": "黔南布依族苗族自治州",
+        "en": "Qiannan",
+        "code": "854"
+    },
+    {
+        "cn": "黔東南苗族侗族自治州",
+        "en": "Qiandongnan",
+        "code": "855"
+    },
+    {
+        "cn": "銅仁",
+        "en": "Tongren",
+        "code": "856"
+    },
+    {
+        "cn": "畢節",
+        "en": "Bijie",
+        "code": "857"
+    },
+    {
+        "cn": "六盤水",
+        "en": "Liupanshui",
+        "code": "858"
+    },
+    {
+        "cn": "黔西南布依族苗族自治州",
+        "en": "Qianxiana",
+        "code": "859"
+    },
+
+    {
+        "cn": "西雙版納傣族自治州",
+        "en": "Xishuangbanna",
+        "code": "691"
+    },
+    {
+        "cn": "德宏傣族景頗族自治州",
+        "en": "Dehong",
+        "code": "692"
+    },
+    {
+        "cn": "昭通",
+        "en": "Zhaotong",
+        "code": "870"
+    },
+    {
+        "cn": "昆明",
+        "en": "Kunming",
+        "code": "871"
+    },
+    {
+        "cn": "東川",
+        "en": "Dongchuan",
+        "code": "871"
+    },
+    {
+        "cn": "大理白族自治州",
+        "en": "Dali",
+        "code": "872"
+    },
+    {
+        "cn": "紅河哈尼族彝族自治州",
+        "en": "Honghe",
+        "code": "873"
+    },
+    {
+        "cn": "曲靖",
+        "en": "Qujing",
+        "code": "874"
+    },
+    {
+        "cn": "保山",
+        "en": "Baoshan",
+        "code": "875"
+    },
+    {
+        "cn": "文山壯族苗族自治州",
+        "en": "Wenshan",
+        "code": "876"
+    },
+    {
+        "cn": "玉溪",
+        "en": "Yuxi",
+        "code": "877"
+    },
+    {
+        "cn": "楚雄彝族自治州",
+        "en": "Chuxiong",
+        "code": "878"
+    },
+    {
+        "cn": "普洱",
+        "en": "Pu'er",
+        "code": "879"
+    },
+    {
+        "cn": "臨滄",
+        "en": "Lincang",
+        "code": "883"
+    },
+    {
+        "cn": "怒江傈僳族自治州",
+        "en": "Nujiang",
+        "code": "886"
+    },
+    {
+        "cn": "迪慶藏族自治州",
+        "en": "Diqing",
+        "code": "887"
+    },
+    {
+        "cn": "麗江",
+        "en": "Lijiang",
+        "code": "888"
+    },
+    
+    {
+        "cn": "拉薩",
+        "en": "Lhasa",
+        "code": "891"
+    },
+    {
+        "cn": "日喀則",
+        "en": "Shigatse",
+        "code": "892"
+    },
+    {
+        "cn": "山南",
+        "en": "Lhoka",
+        "code": "893"
+    },
+    {
+        "cn": "林芝",
+        "en": "Nyingchi",
+        "code": "894"
+    },
+    {
+        "cn": "昌都",
+        "en": "Chamdo",
+        "code": "895"
+    },
+    {
+        "cn": "那曲",
+        "en": "Nagqu",
+        "code": "896"
+    },
+    {
+        "cn": "阿里",
+        "en": "Ngari",
+        "code": "897"
+    },
+    
+    {
+        "cn": "全省",
+        "en": "All Region",
+        "code": "898"
+    },
+
+    {
+        "cn": "延安",
+        "en": "Yanan",
+        "code": "911"
+    },
+    {
+        "cn": "榆林",
+        "en": "Yulin",
+        "code": "912"
+    },
+    {
+        "cn": "渭南",
+        "en": "Weinan",
+        "code": "913"
+    },
+    {
+        "cn": "商洛",
+        "en": "Shang",
+        "code": "914"
+    },
+    {
+        "cn": "安康",
+        "en": "Ankang",
+        "code": "915"
+    },
+    {
+        "cn": "漢中",
+        "en": "Hanzhong",
+        "code": "916"
+    },
+    {
+        "cn": "寶雞",
+        "en": "Baoji",
+        "code": "917"
+    },
+    {
+        "cn": "銅川",
+        "en": "Tongchuan",
+        "code": "919"
+    },
+    
+    {
+        "cn": "臨夏回族自治州",
+        "en": "Linxia",
+        "code": "930"
+    },
+    {
+        "cn": "蘭州",
+        "en": "Lanzhou",
+        "code": "931"
+    },
+    {
+        "cn": "定西",
+        "en": "Dingxi",
+        "code": "932"
+    },
+    {
+        "cn": "平涼",
+        "en": "Pingliang",
+        "code": "933"
+    },
+    {
+        "cn": "慶陽",
+        "en": "Qingyang",
+        "code": "934"
+    },
+    {
+        "cn": "武威",
+        "en": "Wuwei",
+        "code": "935"
+    },
+    {
+        "cn": "金昌",
+        "en": "Jinchang",
+        "code": "935"
+    },
+    {
+        "cn": "張掖",
+        "en": "Zhangye",
+        "code": "936"
+    },
+    {
+        "cn": "酒泉",
+        "en": "Jiuquan",
+        "code": "937"
+    },
+    {
+        "cn": "嘉峪關",
+        "en": "Jiayuguan",
+        "code": "937"
+    },
+    {
+        "cn": "天水",
+        "en": "Tianshui",
+        "code": "938"
+    },
+    {
+        "cn": "隴南",
+        "en": "Longnan",
+        "code": "939"
+    },
+    {
+        "cn": "甘南藏族自治州",
+        "en": "Gannan",
+        "code": "941"
+    },
+    {
+        "cn": "白銀",
+        "en": "Baiyin",
+        "code": "943"
+    },
+   
+    {
+        "cn": "銀州",
+        "en": "Yinchuan",
+        "code": "951"
+    },
+    {
+        "cn": "石嘴山",
+        "en": "Shizuishan",
+        "code": "952"
+    },
+    {
+        "cn": "吳忠",
+        "en": "Wuzhong",
+        "code": "953"
+    },
+    {
+        "cn": "固原",
+        "en": "Guyuan",
+        "code": "954"
+    },
+    {
+        "cn": "中衛",
+        "en": "Zhongwei",
+        "code": "955"
+    },
+  
+    {
+        "cn": "海北藏族自治州",
+        "en": "Haibei",
+        "code": "970"
+    },
+    {
+        "cn": "西寧",
+        "en": "Xining",
+        "code": "971"
+    },
+    {
+        "cn": "海東",
+        "en": "Haidong",
+        "code": "972"
+    },
+    {
+        "cn": "黃南藏族自治州",
+        "en": "Huangnan",
+        "code": "973"
+    },
+    {
+        "cn": "海南藏族自治州",
+        "en": "Hainan",
+        "code": "974"
+    },
+    {
+        "cn": "果洛藏族自治州",
+        "en": "Guoluo",
+        "code": "975"
+    },
+    {
+        "cn": "玉樹藏族自州治",
+        "en": "Yushu",
+        "code": "976"
+    },
+    {
+        "cn": "德令哈(海西蒙古族藏族)",
+        "en": "Delhi (Haixi)",
+        "code": "977"
+    },
+    {
+        "cn": "格爾木(海西蒙古族藏族)",
+        "en": "Golmud (Haixi)",
+        "code": "979"
+    },
+ 
+    {
+        "cn": "塔城地區",
+        "en": "Tacheng",
+        "code": "0901"
+    },
+    {
+        "cn": "哈密地區",
+        "en": "Hami",
+        "code": "0902"
+    },
+    {
+        "cn": "和田地區",
+        "en": "Hotan",
+        "code": "0903"
+    },
+    {
+        "cn": "阿勒泰地區",
+        "en": "Altay",
+        "code": "0906"
+    },
+    {
+        "cn": "克孜勒蘇柯爾克孜自治州",
+        "en": "Kizilsu Kirghiz",
+        "code": "0908"
+    },
+    {
+        "cn": "博爾塔拉蒙古自治州",
+        "en": "Bortala",
+        "code": "0909"
+    },
+    {
+        "cn": "克拉瑪依",
+        "en": "Kalamayi",
+        "code": "990"
+    },
+    {
+        "cn": "烏魯木齊",
+        "en": "Wulumuqi",
+        "code": "991"
+    },
+    {
+        "cn": "伊犁哈薩克自治州－奎屯",
+        "en": "Ili Kazakh - Kuytun",
+        "code": "992"
+    },
+    {
+        "cn": "石河子",
+        "en": "Shihezi",
+        "code": "993"
+    },
+    {
+        "cn": "昌吉回族自治州",
+        "en": "Changji",
+        "code": "994"
+    },
+    {
+        "cn": "吐魯番市",
+        "en": "Tulufan",
+        "code": "995"
+    },
+    {
+        "cn": "巴音郭楞蒙古自治州",
+        "en": "Bayingolin",
+        "code": "996"
+    },
+    {
+        "cn": "阿克蘇地區",
+        "en": "Aksu",
+        "code": "997"
+    },
+    {
+        "cn": "喀什地區",
+        "en": "Kashgar",
+        "code": "998"
+    },
+    {
+        "cn": "伊犁哈薩克自治州－伊寧",
+        "en": "Ili Kazakh - Yining",
+        "code": "999"
+    }
+]
